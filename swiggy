@@ -1,0 +1,4 @@
+echo "# swiggy-app.">>README.md
+get init
+get add README.md
+get commit -n "first commit"
